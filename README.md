@@ -1,2 +1,5 @@
-# webSite
-Site web du club informatique du Lycée Notre-Dame de Boulogne
+# Website
+**To Do List :**
+- [ ] Squelette
+- [ ] Système de publication depuis page admin
+- [ ] Interface Graphique
